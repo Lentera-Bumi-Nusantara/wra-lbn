@@ -2,7 +2,7 @@
 
 Repositori ini digunakan untuk mengelola skrip untuk pengolahan data pengukuran kecepatan angin dari tiang meteorologi di Ciheras. 
 
-Data metmast (bulanan) beserta tautan unduh data:
+Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
 | Bulan | Tautan Unduh Data|
 |---|---|
 |2026/02 | https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3|
