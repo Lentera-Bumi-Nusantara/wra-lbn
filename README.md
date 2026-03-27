@@ -1,5 +1,7 @@
 # **Asesmen Sumber Daya Angin**
 
+<img src="images/head_github.png">
+
 Repositori ini digunakan untuk mengelola skrip untuk pengolahan data pengukuran kecepatan angin dari tiang meteorologi di Ciheras. 
 
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
