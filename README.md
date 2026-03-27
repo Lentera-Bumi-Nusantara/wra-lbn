@@ -15,3 +15,4 @@ Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terla
 
 # **Acknowledgements**
 The sensors and dataloggers in this project were supported by ProfEC Ventus GmbH. 
+<img src="images/ProfEC_Ventus.png" width="200">
