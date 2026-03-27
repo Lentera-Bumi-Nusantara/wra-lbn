@@ -4,6 +4,10 @@
 
 Repositori ini digunakan untuk mengelola skrip untuk pengolahan data pengukuran kecepatan angin dari tiang meteorologi di Ciheras. 
 
+# **Sitasi**
+LBN (2026), "Educational Meteorological Mast for Student Learning Center in Wind Resource Assessment". Lentera Bumi Nusantara. 
+
+# **Unduh Data**
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
 | Bulan | Tautan Unduh Data|
 |---|---|
