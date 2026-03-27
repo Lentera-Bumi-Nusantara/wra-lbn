@@ -10,3 +10,6 @@ Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terla
 |2025/12 | https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg|
 |2025/11 | https://drive.google.com/uc?export=download&id=1hgdUPVHP00cQQZh0QjZIpspvs4xHTYR7|
 |2025/10  | https://drive.google.com/uc?export=download&id=1BpdS-aUdgtMz4GASrX_kWN-SuWwL2Zl6| 
+
+# **Acknowledgements**
+The sensors and dataloggers in this project were supported by ProfEC Ventus GmbH. 
