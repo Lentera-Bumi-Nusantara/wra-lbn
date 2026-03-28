@@ -15,7 +15,7 @@ Buku dapat diunduh melalui tautan berikut: [Modul Pengolahan Data](https://drive
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
 | Bulan |Data| Tautan Unduh Data|
 |---|---|---|
-|2026/02 | 86%| https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3|
+|2026/02 | 81,5%| https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3|
 |2026/01  | - | https://drive.google.com/uc?export=download&id=10ApWQ4i5WtHNs-rc3AfrMI9YZRM0UtVP|
 |2025/12 |  - | https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg|
 |2025/11 | - | https://drive.google.com/uc?export=download&id=1hgdUPVHP00cQQZh0QjZIpspvs4xHTYR7|
