@@ -5,9 +5,11 @@
 Repositori ini digunakan untuk mengelola skrip untuk pengolahan data pengukuran kecepatan angin dari tiang meteorologi di Ciheras. 
 
 # **Sitasi**
-Setiap penggunaan data metmast dari Lentera Bumi Nusantara, dimohon menyertakan sitasi berikut:
+Setiap penggunaan data metmast dari Lentera Bumi Nusantara, diharuskan menyertakan sitasi berikut:
 
-Hilmi, F.A., Rahmatullah, U.A., 2025, _Modul Pengolahan Data_. Musthafa, A.Z.R. dan Mustopa, I.D. (editor). Ciheras: Lentera Bumi Nusantara. 
+Hilmi, F.A., Rahmatullah, U.A., 2025, _Modul Pengolahan Data_. Musthafa, A.Z.R. dan Mustopa, I.D. (editor). Ciheras: Lentera Bumi Nusantara.
+
+Buku dapat diunduh melalui tautan berikut: [Modul Pengolahan Data](https://drive.google.com/file/d/19n01puDL5nDzryAnF09--Qf5VHtA5dDE/view?usp=drive_link) 
 
 # **Unduh Data**
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
