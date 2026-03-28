@@ -22,10 +22,12 @@ Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terla
 |2025/10 | 44,3% | https://drive.google.com/uc?export=download&id=1BpdS-aUdgtMz4GASrX_kWN-SuWwL2Zl6| 
 
 ### Python/Jupyter Notebook:
+```python
 import pandas as pd
 url = "https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3"
 df = pd.read_parquet(url)
 print(df.head())
+```
 
 # **Acknowledgements**
 The sensors and dataloggers in this project were supported by [ProfEC Ventus GmbH](https://www.profec-ventus.com/). 
