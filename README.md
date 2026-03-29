@@ -1,19 +1,19 @@
-# **Asesmen Sumber Daya Angin**
+# **Ciheras Wind Resource Assessment**
 
 ![GitHub Header](./images/head_github.jpg)
 
-Repositori ini digunakan untuk mengelola skrip untuk pengolahan data pengukuran kecepatan angin dari tiang meteorologi di Ciheras. 
+This repository is used for documenting LBN's metmast data at Ciheras and provides introductory tutorials on analysing wind data using python via jupyter notebook.  
 
-# **Sitasi**
-Setiap penggunaan data metmast dari Lentera Bumi Nusantara, diharuskan menyertakan sitasi berikut:
+# **Citation**
+Every usage of Lentera Bumi Nusantara's metmast data must be cited as follows:
 
 Hilmi, F.A., Rahmatullah, U.A., 2025, _Modul Pengolahan Data_. Musthafa, A.Z.R. dan Mustopa, I.D. (editor). Ciheras: Lentera Bumi Nusantara.
 
-Buku dapat diunduh melalui tautan berikut: [Modul Pengolahan Data](https://drive.google.com/file/d/19n01puDL5nDzryAnF09--Qf5VHtA5dDE/view?usp=drive_link) 
+This book can be downloaded through the following URL: [Modul Pengolahan Data](https://drive.google.com/file/d/19n01puDL5nDzryAnF09--Qf5VHtA5dDE/view?usp=drive_link) 
 
-# **Unduh Data**
+# **Download Data**
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
-| Bulan |Data| Tautan Unduh Data|
+| Month |Data| Download URL|
 |---|---|---|
 |2026/02 | 81,5%| https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3|
 |2026/01 | 83,2% | https://drive.google.com/uc?export=download&id=10ApWQ4i5WtHNs-rc3AfrMI9YZRM0UtVP|
