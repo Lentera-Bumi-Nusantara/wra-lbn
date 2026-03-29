@@ -11,6 +11,11 @@ Hilmi, F.A., Rahmatullah, U.A., 2025, _Modul Pengolahan Data_. Musthafa, A.Z.R. 
 
 This book can be downloaded through the following URL: [Modul Pengolahan Data](https://drive.google.com/file/d/19n01puDL5nDzryAnF09--Qf5VHtA5dDE/view?usp=drive_link) 
 
+# **Metmast Details**
+| Parameter| Remarks|
+|---|---|
+| Total Height| 15m|
+
 # **Download Data**
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
 | Month |Data| Download URL|
