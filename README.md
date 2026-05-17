@@ -31,7 +31,7 @@ Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terla
 |2026/01 | 83,2% | [Download Report] | [LBN_2026_01.parquet](https://drive.google.com/uc?export=download&id=10ApWQ4i5WtHNs-rc3AfrMI9YZRM0UtVP)| [LBN_2026_01.csv] |
 |2025/12 | 13,0% | [Download Report] | [LBN_2025_12.parquet](https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg)| [LBN_2025_12.csv] |
 |2025/11 | 97,4% | [Download Report] | [LBN_2025_11.parquet](https://drive.google.com/uc?export=download&id=1hgdUPVHP00cQQZh0QjZIpspvs4xHTYR7)| [LBN_2025_11.csv] |
-|2025/10 | 44,3% | [Download Report] | [LBN_2025_10.parquet](https://drive.google.com/uc?export=download&id=1BpdS-aUdgtMz4GASrX_kWN-SuWwL2Zl6)| [LBN_2025_10.csv] |
+|2025/10 | 44,3% | [Download Report](https://drive.google.com/uc?export=download&id=11MMX-3X7CzxKC0gkTsfcSwRvceuPydFz) | [LBN_2025_10.parquet](https://drive.google.com/uc?export=download&id=1BpdS-aUdgtMz4GASrX_kWN-SuWwL2Zl6)| [LBN_2025_10.csv] |
 
 ### Python/Jupyter Notebook:
 ```python
