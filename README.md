@@ -19,7 +19,7 @@ This book can be downloaded through the following URL: [Modul Pengolahan Data](h
 | 10 m | Vector Instruments A100R/K | Wind Speed     | m/s    | 1 s |
 
 Notes:
-Data is retrieved from the datalogger internal storage manually. Missing data is associated to the missing retrieval. 
+- Data is retrieved from the datalogger internal storage manually. Missing data is associated to the missing retrieval. 
 
 # **Download Data**
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
