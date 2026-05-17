@@ -23,7 +23,7 @@ Notes:
 
 # **Download Data**
 Monthly metmast data in ascending time order:
-| Month | Data Recovery | Monthly Report | Download as parquet (1 s) | Download as csv (1 s) |
+| Month | Data Recovery | Monthly Report | As parquet (1 second) | As csv (1 second) |
 |---|:---:|:---:|---|---|
 |2026/04 | 🟡70,6%| [Download Report](https://drive.google.com/uc?export=download&id=1h68rJ-wt_-qIA_wDgeaje7y8Hd4r2GYs) | [LBN_2026_04.parquet](https://drive.google.com/uc?export=download&id=1FrchvYsyTS3bsPIWoUySX4hVJAoQ4eYk)| [LBN_2026_04.csv](https://drive.google.com/uc?export=download&id=15Mi7VtfrZbKv8xY8O669P7xrBw__yTfd/view?usp=drive_link) |
 |2026/03 | 🔴39,8%| [Download Report](https://drive.google.com/uc?export=download&id=1O6KV7tW_7w10NuuZX2_Use4QYGvDTB0i) | [LBN_2026_03.parquet](https://drive.google.com/uc?export=download&id=1XqRrW3uawfypj6VQ0OjTahPdhcjSYWwR)| [LBN_2026_03.csv](https://drive.google.com/uc?export=download&id=1tCqJls_Sm2CKhcB717Y7NWj2JSmTDoUC) |
