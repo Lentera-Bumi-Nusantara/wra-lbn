@@ -22,7 +22,7 @@ Notes:
 - Data is retrieved from the datalogger internal storage manually. Missing data is associated to the missing retrieval. 
 
 # **Download Data**
-Monthly metmast data in ascending time order:
+Monthly metmast data in descending time order:
 | Month | Data Recovery | Monthly Report | As parquet (raw) | As csv (raw) |
 |---|:---:|:---:|---|---|
 |2026/04 | 🟡70,6%| [Download Report](https://drive.google.com/uc?export=download&id=1h68rJ-wt_-qIA_wDgeaje7y8Hd4r2GYs) | [LBN_2026_04.parquet](https://drive.google.com/uc?export=download&id=1FrchvYsyTS3bsPIWoUySX4hVJAoQ4eYk)| [LBN_2026_04.csv](https://drive.google.com/uc?export=download&id=15Mi7VtfrZbKv8xY8O669P7xrBw__yTfd/view?usp=drive_link) |
