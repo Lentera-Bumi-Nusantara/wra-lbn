@@ -18,10 +18,10 @@ This book can be downloaded through the following URL: [Modul Pengolahan Data](h
 
 # **Download Data**
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
-| Month |Data| Download in *.parquet | Download in *.csv |
+| Month | Data Recovery | Download as parquet | Download as csv |
 |---|---|---|---|
-|2026/04 | xx,5%| [download url](https://drive.google.com/uc?export=download&id=1FrchvYsyTS3bsPIWoUySX4hVJAoQ4eYk)| |
-|2026/03 | xx,5%| [download url](https://drive.google.com/uc?export=download&id=1XqRrW3uawfypj6VQ0OjTahPdhcjSYWwR)| |
+|2026/04 | 70,6%| [download url](https://drive.google.com/uc?export=download&id=1FrchvYsyTS3bsPIWoUySX4hVJAoQ4eYk)| |
+|2026/03 | 39,8%| [download url](https://drive.google.com/uc?export=download&id=1XqRrW3uawfypj6VQ0OjTahPdhcjSYWwR)| |
 |2026/02 | 81,5%| [download url](https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3)| |
 |2026/01 | 83,2% | [download url](https://drive.google.com/uc?export=download&id=10ApWQ4i5WtHNs-rc3AfrMI9YZRM0UtVP)| |
 |2025/12 | 13,0% | [download url](https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg)| |
