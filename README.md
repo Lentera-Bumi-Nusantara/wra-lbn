@@ -18,15 +18,15 @@ This book can be downloaded through the following URL: [Modul Pengolahan Data](h
 
 # **Download Data**
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
-| Month | Data Recovery | Download as parquet | Download as csv |
-|---|:---:|---|---|
-|2026/04 | 70,6%| [LBN_2026_04.parquet](https://drive.google.com/uc?export=download&id=1FrchvYsyTS3bsPIWoUySX4hVJAoQ4eYk)| |
-|2026/03 | 39,8%| [LBN_2026_03.parquet](https://drive.google.com/uc?export=download&id=1XqRrW3uawfypj6VQ0OjTahPdhcjSYWwR)| |
-|2026/02 | 81,5%| [LBN_2026_02.parquet](https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3)| |
-|2026/01 | 83,2% | [LBN_2026_01.parquet](https://drive.google.com/uc?export=download&id=10ApWQ4i5WtHNs-rc3AfrMI9YZRM0UtVP)| |
-|2025/12 | 13,0% | [LBN_2025_12.parquet](https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg)| |
-|2025/11 | 97,4% | [LBN_2025_11.parquet](https://drive.google.com/uc?export=download&id=1hgdUPVHP00cQQZh0QjZIpspvs4xHTYR7)| |
-|2025/10 | 44,3% | [LBN_2025_10.parquet](https://drive.google.com/uc?export=download&id=1BpdS-aUdgtMz4GASrX_kWN-SuWwL2Zl6)| |
+| Month | Data Recovery | Monthly Report | Download as parquet | Download as csv |
+|---|:---:|---|---|---|
+|2026/04 | 70,6%| | [LBN_2026_04.parquet](https://drive.google.com/uc?export=download&id=1FrchvYsyTS3bsPIWoUySX4hVJAoQ4eYk)| |
+|2026/03 | 39,8%| | [LBN_2026_03.parquet](https://drive.google.com/uc?export=download&id=1XqRrW3uawfypj6VQ0OjTahPdhcjSYWwR)| |
+|2026/02 | 81,5%| [download url](https://drive.google.com/uc?export=download&id=1PjTkEdlARoPi-DcKH53egB7w-o-o7hxb) | [LBN_2026_02.parquet](https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3)| |
+|2026/01 | 83,2% | | [LBN_2026_01.parquet](https://drive.google.com/uc?export=download&id=10ApWQ4i5WtHNs-rc3AfrMI9YZRM0UtVP)| |
+|2025/12 | 13,0% | | [LBN_2025_12.parquet](https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg)| |
+|2025/11 | 97,4% | | [LBN_2025_11.parquet](https://drive.google.com/uc?export=download&id=1hgdUPVHP00cQQZh0QjZIpspvs4xHTYR7)| |
+|2025/10 | 44,3% | | [LBN_2025_10.parquet](https://drive.google.com/uc?export=download&id=1BpdS-aUdgtMz4GASrX_kWN-SuWwL2Zl6)| |
 
 ### Python/Jupyter Notebook:
 ```python
