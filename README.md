@@ -29,9 +29,9 @@ Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terla
 |2026/03 | 39,8%| [Download Report](https://drive.google.com/uc?export=download&id=1O6KV7tW_7w10NuuZX2_Use4QYGvDTB0i) | [LBN_2026_03.parquet](https://drive.google.com/uc?export=download&id=1XqRrW3uawfypj6VQ0OjTahPdhcjSYWwR)| [LBN_2026_03.csv] |
 |2026/02 | 81,5%| [Download Report](https://drive.google.com/uc?export=download&id=1PjTkEdlARoPi-DcKH53egB7w-o-o7hxb) | [LBN_2026_02.parquet](https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3)| [LBN_2026_02.csv] | 
 |2026/01 | 83,2% | [Download Report] | [LBN_2026_01.parquet](https://drive.google.com/uc?export=download&id=10ApWQ4i5WtHNs-rc3AfrMI9YZRM0UtVP)| [LBN_2026_01.csv] |
-|2025/12 | 13,0% | [Download Report] | [LBN_2025_12.parquet](https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg)| [LBN_2025_12.csv] |
-|2025/11 | 97,4% | [Download Report](https://drive.google.com/uc?export=download&id=1c1FyX6owstahf2IaamYrL9qxyG5We0tb) | [LBN_2025_11.parquet](https://drive.google.com/uc?export=download&id=1hgdUPVHP00cQQZh0QjZIpspvs4xHTYR7)| [LBN_2025_11.csv] |
-|2025/10 | 44,3% | [Download Report](https://drive.google.com/uc?export=download&id=11MMX-3X7CzxKC0gkTsfcSwRvceuPydFz) | [LBN_2025_10.parquet](https://drive.google.com/uc?export=download&id=1BpdS-aUdgtMz4GASrX_kWN-SuWwL2Zl6)| [LBN_2025_10.csv] |
+|2025/12 | 13,0% | [Download Report] | [LBN_2025_12.parquet](https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg)| [LBN_2025_12.csv](https://drive.google.com/uc?export=download&id=11eRnX6xLWYooW1XJWkCPpgs35_WdQl4O) |
+|2025/11 | 97,4% | [Download Report](https://drive.google.com/uc?export=download&id=1c1FyX6owstahf2IaamYrL9qxyG5We0tb) | [LBN_2025_11.parquet](https://drive.google.com/uc?export=download&id=1hgdUPVHP00cQQZh0QjZIpspvs4xHTYR7)| [LBN_2025_11.csv](https://drive.google.com/uc?export=download&id=1ut7NPisP-ZmN9uBDpBaKtEBQQU_5xGu9) |
+|2025/10 | 44,3% | [Download Report](https://drive.google.com/uc?export=download&id=11MMX-3X7CzxKC0gkTsfcSwRvceuPydFz) | [LBN_2025_10.parquet](https://drive.google.com/uc?export=download&id=1BpdS-aUdgtMz4GASrX_kWN-SuWwL2Zl6)| [LBN_2025_10.csv](https://drive.google.com/uc?export=download&id=10m5wGgYjJ3OCDyQU0WLbxF4SnOvcRkvK) |
 
 ### Python/Jupyter Notebook:
 ```python
