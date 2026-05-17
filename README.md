@@ -20,7 +20,7 @@ This book can be downloaded through the following URL: [Modul Pengolahan Data](h
 Data metmast (bulanan) beserta tautan unduh data dari data terbaru ke data terlama:
 | Month |Data| Download URL|
 |---|---|---|
-|2026/02 | 81,5%| https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3|
+|2026/02 | 81,5%| [parquet](https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3)|
 |2026/01 | 83,2% | https://drive.google.com/uc?export=download&id=10ApWQ4i5WtHNs-rc3AfrMI9YZRM0UtVP|
 |2025/12 | 13,0% | https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg|
 |2025/11 | 97,4% | https://drive.google.com/uc?export=download&id=1hgdUPVHP00cQQZh0QjZIpspvs4xHTYR7|
