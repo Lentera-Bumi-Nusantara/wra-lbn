@@ -34,8 +34,8 @@ Notes:
 - Data is retrieved from the datalogger internal storage manually. Missing data is associated to the missing retrieval. 
 
 # Tutorials (in Indonesian)
-- (Tutorial 1: Membaca File)[https://github.com/Lentera-Bumi-Nusantara/wra-lbn/blob/main/tutorials/1.%20Membaca%20File.ipynb]
-- (Tutorial 2: Mengambil Rerata)[https://github.com/Lentera-Bumi-Nusantara/wra-lbn/blob/main/tutorials/2.%20Mengambil%20Rerata.ipynb]
+- [Tutorial 1: Membaca File](https://github.com/Lentera-Bumi-Nusantara/wra-lbn/blob/main/tutorials/1.%20Membaca%20File.ipynb)
+- [Tutorial 2: Mengambil Rerata](https://github.com/Lentera-Bumi-Nusantara/wra-lbn/blob/main/tutorials/2.%20Mengambil%20Rerata.ipynb)
 
 ### Python/Jupyter Notebook:
 ```python
