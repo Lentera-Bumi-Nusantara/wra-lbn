@@ -18,9 +18,6 @@ This book can be downloaded through the following URL: [Modul Pengolahan Data](h
 | 15 m | Vector Instruments W200P   | Wind Direction | degree | 1 s |
 | 10 m | Vector Instruments A100R/K | Wind Speed     | m/s    | 1 s |
 
-Notes:
-- Data is retrieved from the datalogger internal storage manually. Missing data is associated to the missing retrieval. 
-
 # **Download Data**
 Monthly metmast data in descending time order:
 | Month | Data Recovery | Monthly Report | As parquet (raw) | As csv (raw) |
@@ -29,9 +26,16 @@ Monthly metmast data in descending time order:
 |2026/03 | 🔴39,8%| [Download Report](https://drive.google.com/uc?export=download&id=1O6KV7tW_7w10NuuZX2_Use4QYGvDTB0i) | [LBN_2026_03.parquet](https://drive.google.com/uc?export=download&id=1XqRrW3uawfypj6VQ0OjTahPdhcjSYWwR)| [LBN_2026_03.csv](https://drive.google.com/uc?export=download&id=1tCqJls_Sm2CKhcB717Y7NWj2JSmTDoUC) |
 |2026/02 | 🟡81,5%| [Download Report](https://drive.google.com/uc?export=download&id=1PjTkEdlARoPi-DcKH53egB7w-o-o7hxb) | [LBN_2026_02.parquet](https://drive.google.com/uc?export=download&id=1NhomcQDeA8O8JUfOPwTa14qBHkispD-3)| [LBN_2026_02.csv](https://drive.google.com/uc?export=download&id=15W4SrtC0PJe9LDK56xYGP-f2qKEZF1dm) | 
 |2026/01 | 🟡83,2%| [Download Report](https://drive.google.com/uc?export=download&id=1yRmITWXB0scx6l9DsehJ62h-ydIxxVPh) | [LBN_2026_01.parquet](https://drive.google.com/uc?export=download&id=10ApWQ4i5WtHNs-rc3AfrMI9YZRM0UtVP)| [LBN_2026_01.csv](https://drive.google.com/uc?export=download&id=1EobCbwJ9Oxmq6sKsHjBPAA3WJjrPbKsI) |
-|2025/12 | 🔴13,0%| Download Report | [LBN_2025_12.parquet](https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg)| [LBN_2025_12.csv](https://drive.google.com/uc?export=download&id=11eRnX6xLWYooW1XJWkCPpgs35_WdQl4O) |
+|2025/12 | 🔴13,0%| No Report | [LBN_2025_12.parquet](https://drive.google.com/uc?export=download&id=1NE4T-WTIFpUx_qmLTRVgmcamEOAWgacg)| [LBN_2025_12.csv](https://drive.google.com/uc?export=download&id=11eRnX6xLWYooW1XJWkCPpgs35_WdQl4O) |
 |2025/11 | 🟢97,4% | [Download Report](https://drive.google.com/uc?export=download&id=1c1FyX6owstahf2IaamYrL9qxyG5We0tb) | [LBN_2025_11.parquet](https://drive.google.com/uc?export=download&id=1hgdUPVHP00cQQZh0QjZIpspvs4xHTYR7)| [LBN_2025_11.csv](https://drive.google.com/uc?export=download&id=1ut7NPisP-ZmN9uBDpBaKtEBQQU_5xGu9) |
 |2025/10 | 🔴44,3% | [Download Report](https://drive.google.com/uc?export=download&id=11MMX-3X7CzxKC0gkTsfcSwRvceuPydFz) | [LBN_2025_10.parquet](https://drive.google.com/uc?export=download&id=1BpdS-aUdgtMz4GASrX_kWN-SuWwL2Zl6)| [LBN_2025_10.csv](https://drive.google.com/uc?export=download&id=10m5wGgYjJ3OCDyQU0WLbxF4SnOvcRkvK) |
+
+Notes:
+- Data is retrieved from the datalogger internal storage manually. Missing data is associated to the missing retrieval. 
+
+# Tutorials (in Indonesian)
+- (Tutorial 1: Membaca File)[https://github.com/Lentera-Bumi-Nusantara/wra-lbn/blob/main/tutorials/1.%20Membaca%20File.ipynb]
+- (Tutorial 2: Mengambil Rerata)[https://github.com/Lentera-Bumi-Nusantara/wra-lbn/blob/main/tutorials/2.%20Mengambil%20Rerata.ipynb]
 
 ### Python/Jupyter Notebook:
 ```python
